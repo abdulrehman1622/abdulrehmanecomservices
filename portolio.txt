@@ -1,0 +1,719 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>asimazam343 | Portfolio</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/me.jpg" rel="icon">
+    <link href="assets/img/me.jpg" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="container">
+
+            <h1><a href="index.html">Asim Azam</a></h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+            <h2>I'm a passionate <span clas style="color: #ffbb2c; font-weight:1000;">UI & UX and Social Media Designer</span> from Pakistan</h2>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link active" href="#header">Home</a></li>
+                    <li><a class="nav-link" href="#about">About</a></li>
+                    <li><a class="nav-link" href="#resume">Resume</a></li>
+                    <li><a class="nav-link" href="#services">Services</a></li>
+                    <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                    <li><a class="nav-link" href="#contact">Contact</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+
+            <div class="social-links">
+                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+            </div>
+
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+
+        <!-- ======= About Me ======= -->
+        <div class="about-me container">
+
+            <div class="section-title text-center">
+
+                <h2>About</h2>
+                <p>Learn more about me</p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <img src="assets/img/me111.png" class="img-fluid"  alt="">
+                </div>
+                <div class="col-lg-12 pt-4 pt-lg-0 content" data-aos="fade-left">
+                    <h3 class="text-center primary_color">Web <span class="text-white">Designer</span></h3>
+                    <h3 class="text-center text-white"> <span style="letter-spacing: 5px;">UI & UX</span> Designer</h3>
+                    <p class="fst-italic text-wrap w-50 text-center mx-auto container my-5">
+                        Hello, Welcome Hope you are doing great. My name is Asim Azam and passionate Web designer and UI & UX Designer. I design creative and User Friendly UI for both Website and Mobile. <br>
+
+                       <span class="script primary_color"> Belive in Quality Work</span> <br><br>
+
+                   We are Available 24/7. <br> For Any Assistance leave us message
+
+
+                    </p>
+                    <div class="row text-center">
+                        <div class="col-lg-12">
+                            <ul>
+                                I am also serving on following Freelance Platform <br><br>
+
+                                <a href="https://www.upwork.com/freelancers/~013488b8e8c6e3af6b" class="btn btn-warning text-white" target="_blank">Upwork</a>
+                                <a href="https://www.fiverr.com/asimktk?public_mode=true" class="btn btn-primary" target="_blank">Fiver</a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- End About Me -->
+
+        <!-- ======= Counts ======= -->
+        <div class="counts container my-5">
+
+            <div class="row p-3">
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="count-box">
+                        <i class="bi bi-emoji-smile"></i>
+                        <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Happy Clients</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+                    <div class="count-box">
+                        <i class="bi bi-journal-richtext"></i>
+                        <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Projects(Freelancer)</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+                    <div class="count-box">
+                        <i class="bi bi-headset"></i>
+                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Hours Of Work (As a Freelancer)</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+                    <div class="count-box">
+                        <i class="bi bi-award"></i>
+                        <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Personal Grab Projects</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- End Counts -->
+
+        <!-- ======= Skills  ======= -->
+        <div class="skills container my-5"">
+
+            <div class="section-title">
+                <h2>Skills</h2>
+            </div>
+
+            <div class="row skills-content">
+
+                <div class="col-lg-12 p-3 d-flex justify-content-between align-items-center">
+                    <img src="./assets/img/html.png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/Js.png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(11).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(12).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(10).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(9).png" style="width: 170px; height:170px" alt="">
+                    <img src="./assets/img/pngwing.com(8).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(7).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(6).png" style="width: 100px; height:100px" alt="">
+                    <img src="./assets/img/pngwing.com(5).png" style="width: 100px; height:100px" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- End Skills -->
+
+
+
+        <!-- ======= Testimonials ======= -->
+        <div class="testimonials container">
+
+            <div class="section-title">
+                <h2>Testimonials</h2>
+            </div>
+
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <img style="max-width:100%;" src="./assets/img/testimonials/Fiverr-review-1.png" alt="">
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i> Excellent Work Good Communications Thank You
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                            <h3>ashabuleil</h3>
+                            <h4>United States</h4>
+                        </div>
+                    </div>
+                    <!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <img style="max-width:100%;" src="./assets/img/testimonials/Fiverr-review-2.png" alt="">
+
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i> Very Good and Always Available
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                            <h3>hbmichel</h3>
+                            <h4>Martinique</h4>
+                        </div>
+                    </div>
+                    <!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <img style="max-width:100%;" src="./assets/img/testimonials/Upwork-review-1.png" alt="">
+
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i> Asim has some skills, communicated well and got the job done when he said he would.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                            <h3>Minus jen</h3>
+                            <h4>Austria</h4>
+                        </div>
+                    </div>
+                    <!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <img style="max-width:100%;" src="./assets/img/testimonials/Upwork-review-2.png" alt="">
+
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i> Azim edited a few of my photos and got all of my work finished promptly. He always took the initiative to showcase his work by offering free samples of some things to
+                                see if I liked a certain direction we were going in. Will definitely use him again!
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                            <h3>Frank Wall</h3>
+                            <h4>Fitness Trainer</h4>
+                        </div>
+                    </div>
+                    <!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <img style="max-width:100%;" src="./assets/img/testimonials/Upwork-review-3.png" alt="">
+
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i> Thank You
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                            <h3>Flo Seolane</h3>
+                            <h4>Entrepreneur</h4>
+                        </div>
+                    </div>
+                    <!-- End testimonial item -->
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+            <div class="owl-carousel testimonials-carousel">
+
+            </div>
+
+        </div>
+        <!-- End Testimonials  -->
+
+    </section>
+    <!-- End About Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Resume</h2>
+                <p>Check My Resume</p>
+                <a href="https://drive.google.com/file/d/1SkQPDW6ZovUlBX7pCqWgVzVabvbbrDrx/view?usp=sharing" target="_blank">
+                    <div class="btn-success w-50 p-2">📤&nbsp; Download Resume</div>
+                </a>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <h3 class="resume-title">Sumary</h3>
+                    <div class="resume-item pb-0">
+                        <h4>Asim Azam</h4>
+                        <p><em>Passionate Web designer and Developer is well as rich experience in UI & UX along with Social Media design. I have been in web design and development from last 4 years. and services is wordpress content manager and social media designer.
+              for now I am looking forward to work on Web design and development projects and provide more value to your company. </em></p>
+                        <p>
+                            <ul>
+                                <li>Pakistan,karak,27000</li>
+                                <li>+92 317 8103431</li>
+                                <li>asimktk343@gmail.com</li>
+                            </ul>
+                        </p>
+                    </div>
+
+                    <h3 class="resume-title">Education</h3>
+                    <div class="resume-item">
+                        <h4>Social Media Designing</h4>
+                        <h5>2015 - 2016</h5>
+                        <p><em>Coursera</em></p>
+                        <p>The person who enrolled directly in coursera paid course in 2015 because of enthusiasm and interest.</p>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Bachelor in Computer Science</h4>
+                        <h5>2018 - 2022</h5>
+                        <p><em>Khushal Khan khattak University Karak</em></p>
+                        <p>University known from the leaderships and sacrifices for the country <b>Khushal Baba</b>. khushal khan khattak University karak</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h3 class="resume-title">Professional Experience</h3>
+                    <div class="resume-item">
+                        <h4>Graphic designer</h4>
+                        <h5>2017</h5>
+                        <p><em>Online Courses</em></p>
+                        <p>
+                            <ul>
+                                <li>Social Media Design</li>
+                                <li>Brand Design</li>
+                                <li>UI & UX Designer</li>
+                            </ul>
+                        </p>
+                    </div>
+
+                    <div class="resume-item">
+                        <h4>Project Manager</h4>
+                        <h5>2018 - 2022</h5>
+                        <p><em>Vtechsol </em></p>
+                        <p>
+                            <ul>
+                                <li>Wordpress Content Manager</li>
+                                <li>Social Media Content Manager </li>
+                                <li>Facebook Ads Manager</li>
+                                <li>Admin Task</li>
+                            </ul>
+                        </p>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Front-End Developer</h4>
+                        <h5>2022</h5>
+                        <p><a href="https://www.orcalo.co.uk/" target="_blank">Orcalo Holding </a></p>
+                        <p>
+                            <ul>
+                                <li>Maintain Web workflow</li>
+                                <li>Website Interactivity</li>
+                                <li>Website Responsiveness</li>
+                                <li></li>
+                            </ul>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- End Resume Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Services</h2>
+                <p>My Services</p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                        <h4><a href="">Website Design</a></h4>
+                        <p>Affordable Website designing and perfect responsive Starting from <span style="color: black;">$30</span>
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                           
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-file"></i></div>
+                        <h4><a href="">Website Design and development</a></h4>
+                        <p>Affordable Website designing and Development Starting from <span style="color: black;">$90</span>
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-tachometer"></i></div>
+                        <h4><a href="">Web and Mobile</a></h4>
+                        <p>Desktop and Mobile Application <span style="color: black;">Starting from $120</span>
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-world"></i></div>
+                        <h4><a href="">Social Media Content Management</a></h4>
+                        <p>Providing Content Management Services on all Social Media platforms <span style="color: black;"> Starting from $250/month</span>
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-slideshow"></i></div>
+                        <h4><a href="">Social Media Post Design</a></h4>
+                        <p>Product Requirement and Clean design to get high CPM <span style="color: black;">Starting from $10</span>
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-arch"></i></div>
+                        <h4><a href="">Video Editing</a></h4>
+                        <p>We are Creative team of video editing skillful in Commerial and Product editing
+                            <span style="color: black;">starting from $50</span>
+
+                            <div class="social-links services-links my-4">
+                                <a href="https://twitter.com/asimktk343" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+                                <a href="https://web.facebook.com/asimktk343" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.instagram.com/asimazam343/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/asimazam343/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/asimazam343" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- End Services Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Portfolio</h2>
+                <p>My Works</p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12 d-flex justify-content-center">
+                    <ul id="portfolio-flters">
+                        <li data-filter="*" class="filter-active">All</li>
+                        <li data-filter=".filter-app">Web Design</li>
+                        <li data-filter=".filter-card">Social Media Design</li>
+                        <li data-filter=".filter-web">Video Editing Projects</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row portfolio-container">
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Gradient-Dashboard</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Dashboard"><a href="https://github.com/asimazam343/Gradient-UI-Dashboard" target="_blank"><i class="bx bx-plus"></i></a></i>
+                                </a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Interviews Editing</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sara Video"><a href="https://www.youtube.com/watch?v=EHUV7WIn9JY&t=25s" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Upwork Webpage clone"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-3.1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Upwork Website clone</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-3.1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Upwork clone"><a href="https://github.com/asimazam343/Upwrok-Clone-Responsive" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Social Media Post Design</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Post design"><a href="https://www.behance.net/asimazam1" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>interviews Editing</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><a href="https://www.youtube.com/watch?v=KAEuLTiApGY" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>American-Food Website</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Food Website"><a href="https://github.com/asimazam343/american-food-website" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Banner Design</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><a href="https://www.behance.net/asimazam1" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Thumbnails Design</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><a href="https://www.behance.net/asimazam1" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Vlogs Editing</h4>
+                            <p>👇</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><a href="https://www.youtube.com/watch?v=j2SXqshBOMU" target="_blank"><i class="bx bx-plus"></i></a></a>
+                                <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- End Portfolio Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Contact</h2>
+                <p>Contact Me</p>
+            </div>
+
+            <div class="row mt-2">
+
+                <div class="col-md-6 d-flex align-items-stretch">
+                    <div class="info-box">
+                        <i class="bx bx-map"></i>
+                        <h3>Pakistan,Karak</h3>
+                        <p>Postal Adress : 27000</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
+                    <div class="info-box">
+                        <i class="bx bx-share-alt"></i>
+                        <h3>Social Profiles</h3>
+                        <div class="social-links">
+                            <a href="https://twitter.com/asimktk343" class="twitter"><i class="bi bi-twitter"></i></a>
+                            <a href="https://web.facebook.com/asimktk343" class="facebook"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.instagram.com/asimazam343/" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/asimazam343/" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a href="https://github.com/asimazam343" class="github"><i class="bi bi-github"></i></a>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="col-md-6 mt-4 d-flex align-items-stretch">
+                    <div class="info-box">
+                        <i class="bx bx-envelope"></i>
+                        <h3>Email Me</h3>
+                        <p><a href="mailto:asimktk343@gmail.com">asimktk343@gmail.com</a></p>
+                    </div>
+                </div>
+                <div class="col-md-6 mt-4 d-flex align-items-stretch">
+                    <div class="info-box">
+                        <i class="bx bx-phone-call"></i>
+                        <h3>Whatsapp</h3>
+                        <p>+92 3178103431</p>
+                        <p>+92 3328574679</p>
+
+                        <a href="https://wa.link/1pel7c" target="_blank">
+                            <div class="btn-success">👋Whatsapp me</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+    <!-- End Contact Section -->
+
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
